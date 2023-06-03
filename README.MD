@@ -3,4 +3,6 @@ Custom keybinding
 Default key - X
 Default /command is handsup
 
+Youtube Video - https://www.youtube.com/watch?v=9bnFa9nQWdQ
+
 Longo Development - https://discord.gg/w6aPhqn4t4
